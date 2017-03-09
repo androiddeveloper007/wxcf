@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\values-ar\\values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 82,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1589,
+                        "endColumn": 82,
+                        "endOffset": 1667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 90,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 90,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 77,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1368,
+                        "endColumn": 77,
+                        "endOffset": 1441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 70,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1518,
+                        "endColumn": 70,
+                        "endOffset": 1584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endColumn": 73,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 73,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 71,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1446,
+                        "endColumn": 71,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 102,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1760,
+                        "endColumn": 102,
+                        "endOffset": 1858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 98,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2498,
+                        "endColumn": 98,
+                        "endOffset": 2592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 95,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2201,
+                        "endColumn": 95,
+                        "endOffset": 2292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endColumn": 100,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2397,
+                        "endColumn": 100,
+                        "endOffset": 2493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 99,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2297,
+                        "endColumn": 99,
+                        "endOffset": 2392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 87,
+                    "endOffset": 1106
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1672,
+                        "endColumn": 87,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1111,
+                    "endColumn": 75,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2026,
+                        "endColumn": 75,
+                        "endOffset": 2097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endColumn": 79,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1946,
+                        "endColumn": 79,
+                        "endOffset": 2021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 69,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 69,
+                        "endOffset": 1048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 71,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1053,
+                        "endColumn": 71,
+                        "endOffset": 1120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endColumn": 87,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 87,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 81,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1125,
+                        "endColumn": 81,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 82,
+                    "endOffset": 1657
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1863,
+                        "endColumn": 82,
+                        "endOffset": 1941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1662,
+                    "endColumn": 79,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2597,
+                        "endColumn": 79,
+                        "endOffset": 2672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 77,
+                    "endOffset": 1815
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2677,
+                        "endColumn": 77,
+                        "endOffset": 2750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1820,
+                    "endColumn": 98,
+                    "endOffset": 1914
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2102,
+                        "endColumn": 98,
+                        "endOffset": 2196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1919,
+                    "endColumn": 86,
+                    "endOffset": 2001
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1207,
+                        "endColumn": 86,
+                        "endOffset": 1289
+                    }
+                }
+            }
+        ]
+    }
+]

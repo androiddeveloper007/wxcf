@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1583185545938805861" name="alphabet">"Mga Alphabet"</string>
+    <string msgid="8396461461738434341" name="app_name">"SIM Toolkit"</string>
+    <string msgid="1997847915560800261" name="button_cancel">"Kanselahin"</string>
+    <string msgid="1824959157582605627" name="button_no">"Hindi"</string>
+    <string msgid="5760722312558549555" name="button_ok">"OK"</string>
+    <string msgid="624420260648337203" name="button_yes">"Oo"</string>
+    <string msgid="7960194995759849940" name="default_call_setup_msg">"May nagaganap na tawag…"</string>
+    <string msgid="765364262263839824" name="default_close_channel_msg">"Nakasara ang Channel"</string>
+    <string msgid="2216070254100295924" name="default_open_channel_msg">"Buksan ang Channel?"</string>
+    <string msgid="618096941772010682" name="default_receive_data_msg">"Tumatanggap ng Data"</string>
+    <string msgid="6011219698689931272" name="default_send_data_msg">"Nagpapadala ng Data"</string>
+    <string msgid="1746796679021682388" name="digits">"Mga Digit (0-9, *, #, +)"</string>
+    <string msgid="6725081975611415214" name="disable_app">"Hindi pinagana"</string>
+    <string msgid="3701224550936728203" name="enable_app">"Pinagana"</string>
+    <string msgid="9209980881219397319" name="help">"Tulong"</string>
+    <string msgid="301227740977453364" name="menu_back">"Bumalik"</string>
+    <string msgid="7368541737750982217" name="menu_end_session">"Wakasan ang session"</string>
+    <string msgid="6860303747999592491" name="service_name">"Pangalan ng serbisyo"</string>
+    <string msgid="18582277302584082" name="stk_app_state">"Katayuan ng application"</string>
+    <string msgid="8498901537508923727" name="stk_dialog_accept">"OO"</string>
+    <string msgid="921848059485746796" name="stk_dialog_reject">"HINDI"</string>
+    <string msgid="6954825385456886726" name="stk_dialog_title">"SIM Toolkit"</string>
+    <string msgid="5427773116839809131" name="stk_no_service">"Walang available na serbisyo"</string>
+</resources>

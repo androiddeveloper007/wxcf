@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\layout\\stk_title.xml",
+        "source": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\layout\\stk_title.xml"
+    },
+    {
+        "merged": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\layout\\stk_menu_item.xml",
+        "source": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\layout\\stk_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\layout\\stk_input.xml",
+        "source": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\layout\\stk_input.xml"
+    },
+    {
+        "merged": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\layout\\stk_tone_dialog.xml",
+        "source": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\layout\\stk_tone_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\layout\\stk_menu_list.xml",
+        "source": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\layout\\stk_menu_list.xml"
+    },
+    {
+        "merged": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\layout\\stk_event_msg.xml",
+        "source": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\layout\\stk_event_msg.xml"
+    },
+    {
+        "merged": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\layout\\stk_msg_dialog.xml",
+        "source": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\layout\\stk_msg_dialog.xml"
+    }
+]

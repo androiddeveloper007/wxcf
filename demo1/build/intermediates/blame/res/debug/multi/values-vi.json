@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\values-vi\\values-vi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 79,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endColumn": 79,
+                        "endOffset": 1668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 81,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 81,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 75,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 75,
+                        "endOffset": 1443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 73,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1519,
+                        "endColumn": 73,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 70,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1301,
+                        "endColumn": 70,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 70,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endColumn": 70,
+                        "endOffset": 1514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 103,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1760,
+                        "endColumn": 103,
+                        "endOffset": 1859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endColumn": 95,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2494,
+                        "endColumn": 95,
+                        "endOffset": 2585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 91,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2205,
+                        "endColumn": 91,
+                        "endOffset": 2292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endColumn": 99,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2394,
+                        "endColumn": 99,
+                        "endOffset": 2489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 901,
+                    "endColumn": 96,
+                    "endOffset": 993
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2297,
+                        "endColumn": 96,
+                        "endOffset": 2389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endColumn": 86,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1673,
+                        "endColumn": 86,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 84,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 84,
+                        "endOffset": 2110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 75,
+                    "endOffset": 1241
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1954,
+                        "endColumn": 75,
+                        "endOffset": 2025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1246,
+                    "endColumn": 71,
+                    "endOffset": 1313
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 71,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1318,
+                    "endColumn": 75,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 75,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 89,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 89,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endColumn": 82,
+                    "endOffset": 1562
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 82,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1567,
+                    "endColumn": 89,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1864,
+                        "endColumn": 89,
+                        "endOffset": 1949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1657,
+                    "endColumn": 78,
+                    "endOffset": 1731
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2590,
+                        "endColumn": 78,
+                        "endOffset": 2664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1736,
+                    "endColumn": 80,
+                    "endOffset": 1812
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2669,
+                        "endColumn": 80,
+                        "endOffset": 2745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1817,
+                    "endColumn": 89,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2115,
+                        "endColumn": 89,
+                        "endOffset": 2200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endColumn": 93,
+                    "endOffset": 1996
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-vi\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1207,
+                        "endColumn": 93,
+                        "endOffset": 1296
+                    }
+                }
+            }
+        ]
+    }
+]

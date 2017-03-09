@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1583185545938805861" name="alphabet">"Әліппелер"</string>
+    <string msgid="8396461461738434341" name="app_name">"SIM аспаптар жинағы"</string>
+    <string msgid="1997847915560800261" name="button_cancel">"Бас тарту"</string>
+    <string msgid="1824959157582605627" name="button_no">"Жоқ"</string>
+    <string msgid="5760722312558549555" name="button_ok">"Жарайды"</string>
+    <string msgid="624420260648337203" name="button_yes">"Иә"</string>
+    <string msgid="7960194995759849940" name="default_call_setup_msg">"Қоңырау шалынуда…"</string>
+    <string msgid="765364262263839824" name="default_close_channel_msg">"Арна жабық"</string>
+    <string msgid="2216070254100295924" name="default_open_channel_msg">"Арнаны ашу?"</string>
+    <string msgid="618096941772010682" name="default_receive_data_msg">"Деректер алуда"</string>
+    <string msgid="6011219698689931272" name="default_send_data_msg">"Деректер жіберуде"</string>
+    <string msgid="1746796679021682388" name="digits">"Бірліктер (0-9, *, #, +)"</string>
+    <string msgid="6725081975611415214" name="disable_app">"Өшірілген"</string>
+    <string msgid="3701224550936728203" name="enable_app">"Қосылған"</string>
+    <string msgid="9209980881219397319" name="help">"Көмек"</string>
+    <string msgid="301227740977453364" name="menu_back">"Артқа"</string>
+    <string msgid="7368541737750982217" name="menu_end_session">"Сессияны аяқтау"</string>
+    <string msgid="6860303747999592491" name="service_name">"Қызмет атауы"</string>
+    <string msgid="18582277302584082" name="stk_app_state">"Қолданба күйі"</string>
+    <string msgid="8498901537508923727" name="stk_dialog_accept">"ИӘ"</string>
+    <string msgid="921848059485746796" name="stk_dialog_reject">"ЖОҚ"</string>
+    <string msgid="6954825385456886726" name="stk_dialog_title">"SIM аспаптар жинағы"</string>
+    <string msgid="5427773116839809131" name="stk_no_service">"Ешқандай қызметтер жоқ"</string>
+</resources>

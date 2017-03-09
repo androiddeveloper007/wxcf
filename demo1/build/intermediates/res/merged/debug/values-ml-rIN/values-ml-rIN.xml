@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1583185545938805861" name="alphabet">"അക്ഷരമാല"</string>
+    <string msgid="8396461461738434341" name="app_name">"SIM Toolkit"</string>
+    <string msgid="1997847915560800261" name="button_cancel">"റദ്ദാക്കുക"</string>
+    <string msgid="1824959157582605627" name="button_no">"വേണ്ട"</string>
+    <string msgid="5760722312558549555" name="button_ok">"ശരി"</string>
+    <string msgid="624420260648337203" name="button_yes">"വേണം"</string>
+    <string msgid="7960194995759849940" name="default_call_setup_msg">"കോൾ ചെയ്യുന്നത് പുരോഗതിയിലാണ്…"</string>
+    <string msgid="765364262263839824" name="default_close_channel_msg">"ചാനൽ അടച്ചു"</string>
+    <string msgid="2216070254100295924" name="default_open_channel_msg">"ചാനൽ തുറക്കണോ?"</string>
+    <string msgid="618096941772010682" name="default_receive_data_msg">"ഡാറ്റ നേടുന്നു"</string>
+    <string msgid="6011219698689931272" name="default_send_data_msg">"ഡാറ്റ അയയ്ക്കുന്നു"</string>
+    <string msgid="1746796679021682388" name="digits">"ഡിജിറ്റുകൾ (0-9, *, #, +)"</string>
+    <string msgid="6725081975611415214" name="disable_app">"പ്രവർത്തനരഹിതമാക്കി"</string>
+    <string msgid="3701224550936728203" name="enable_app">"പ്രവർത്തനക്ഷമമാക്കി"</string>
+    <string msgid="9209980881219397319" name="help">"സഹായം"</string>
+    <string msgid="301227740977453364" name="menu_back">"മടങ്ങുക"</string>
+    <string msgid="7368541737750982217" name="menu_end_session">"സെഷൻ അവസാനിച്ചു"</string>
+    <string msgid="6860303747999592491" name="service_name">"സേവനത്തിന്റെ പേര്"</string>
+    <string msgid="18582277302584082" name="stk_app_state">"അപ്ലിക്കേഷൻ നില"</string>
+    <string msgid="8498901537508923727" name="stk_dialog_accept">"അതെ"</string>
+    <string msgid="921848059485746796" name="stk_dialog_reject">"അല്ല"</string>
+    <string msgid="6954825385456886726" name="stk_dialog_title">"SIM ToolKit"</string>
+    <string msgid="5427773116839809131" name="stk_no_service">"സേവനമൊന്നും ലഭ്യമല്ല"</string>
+</resources>

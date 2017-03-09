@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1583185545938805861" name="alphabet">"ანბანები"</string>
+    <string msgid="8396461461738434341" name="app_name">"SIM-ბარათის მენიუ"</string>
+    <string msgid="1997847915560800261" name="button_cancel">"გაუქმება"</string>
+    <string msgid="1824959157582605627" name="button_no">"არა"</string>
+    <string msgid="5760722312558549555" name="button_ok">"კარგი"</string>
+    <string msgid="624420260648337203" name="button_yes">"დიახ"</string>
+    <string msgid="7960194995759849940" name="default_call_setup_msg">"მიმდინარეობს დაკავშირება…"</string>
+    <string msgid="765364262263839824" name="default_close_channel_msg">"არხი დახურულია"</string>
+    <string msgid="2216070254100295924" name="default_open_channel_msg">"გაიხსნას არხი?"</string>
+    <string msgid="618096941772010682" name="default_receive_data_msg">"მონაცემთა მიღება"</string>
+    <string msgid="6011219698689931272" name="default_send_data_msg">"მონაცემთა გაგზავნა"</string>
+    <string msgid="1746796679021682388" name="digits">"ციფრები (0-9, *, #, +)"</string>
+    <string msgid="6725081975611415214" name="disable_app">"გამორთულია"</string>
+    <string msgid="3701224550936728203" name="enable_app">"გააქტიურებული"</string>
+    <string msgid="9209980881219397319" name="help">"დახმარება"</string>
+    <string msgid="301227740977453364" name="menu_back">"უკან"</string>
+    <string msgid="7368541737750982217" name="menu_end_session">"სესიის დასრულება"</string>
+    <string msgid="6860303747999592491" name="service_name">"სერვისის სახელი"</string>
+    <string msgid="18582277302584082" name="stk_app_state">"აპლიკაციის მდგომარეობა"</string>
+    <string msgid="8498901537508923727" name="stk_dialog_accept">"დიახ"</string>
+    <string msgid="921848059485746796" name="stk_dialog_reject">"არა"</string>
+    <string msgid="6954825385456886726" name="stk_dialog_title">"SIM-ბარათის მენიუ"</string>
+    <string msgid="5427773116839809131" name="stk_no_service">"სერვისი მიუწვდომელია"</string>
+</resources>

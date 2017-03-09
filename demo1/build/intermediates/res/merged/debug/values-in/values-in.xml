@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1583185545938805861" name="alphabet">"Alfabet"</string>
+    <string msgid="8396461461738434341" name="app_name">"SIM Toolkit"</string>
+    <string msgid="1997847915560800261" name="button_cancel">"Batal"</string>
+    <string msgid="1824959157582605627" name="button_no">"Tidak"</string>
+    <string msgid="5760722312558549555" name="button_ok">"Oke"</string>
+    <string msgid="624420260648337203" name="button_yes">"Ya"</string>
+    <string msgid="7960194995759849940" name="default_call_setup_msg">"Panggilan sedang berlangsung..."</string>
+    <string msgid="765364262263839824" name="default_close_channel_msg">"Saluran Ditutup"</string>
+    <string msgid="2216070254100295924" name="default_open_channel_msg">"Buka Saluran?"</string>
+    <string msgid="618096941772010682" name="default_receive_data_msg">"Menerima Data"</string>
+    <string msgid="6011219698689931272" name="default_send_data_msg">"Mengirim Data"</string>
+    <string msgid="1746796679021682388" name="digits">"Digit (0-9, *, #, +)"</string>
+    <string msgid="6725081975611415214" name="disable_app">"Dinonaktifkan"</string>
+    <string msgid="3701224550936728203" name="enable_app">"Diaktifkan"</string>
+    <string msgid="9209980881219397319" name="help">"Bantuan"</string>
+    <string msgid="301227740977453364" name="menu_back">"Kembali"</string>
+    <string msgid="7368541737750982217" name="menu_end_session">"Akhiri sesi"</string>
+    <string msgid="6860303747999592491" name="service_name">"Nama layanan"</string>
+    <string msgid="18582277302584082" name="stk_app_state">"Status aplikasi"</string>
+    <string msgid="8498901537508923727" name="stk_dialog_accept">"YA"</string>
+    <string msgid="921848059485746796" name="stk_dialog_reject">"TIDAK"</string>
+    <string msgid="6954825385456886726" name="stk_dialog_title">"SIM ToolKit"</string>
+    <string msgid="5427773116839809131" name="stk_no_service">"Layanan tidak tersedia"</string>
+</resources>

@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "C:\\Android\\ASProjects\\demo1\\demo1\\build\\intermediates\\res\\merged\\debug\\values-et-rEE\\values-et-rEE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 77,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1590,
+                        "endColumn": 77,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 78,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 78,
+                        "endOffset": 878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 79,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1367,
+                        "endColumn": 79,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 70,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1519,
+                        "endColumn": 70,
+                        "endOffset": 1585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 70,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1296,
+                        "endColumn": 70,
+                        "endOffset": 1362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 71,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endColumn": 71,
+                        "endOffset": 1514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 100,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1756,
+                        "endColumn": 100,
+                        "endOffset": 1852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 96,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2502,
+                        "endColumn": 96,
+                        "endOffset": 2594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 99,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2202,
+                        "endColumn": 99,
+                        "endOffset": 2297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 102,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2399,
+                        "endColumn": 102,
+                        "endOffset": 2497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 96,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2302,
+                        "endColumn": 96,
+                        "endOffset": 2394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endColumn": 87,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 87,
+                        "endOffset": 1751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 78,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2019,
+                        "endColumn": 78,
+                        "endOffset": 2093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 76,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1942,
+                        "endColumn": 76,
+                        "endOffset": 2014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 66,
+                    "endOffset": 1310
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 970,
+                        "endColumn": 66,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1315,
+                    "endColumn": 73,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 73,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 86,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 86,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 83,
+                    "endOffset": 1555
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 83,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1560,
+                    "endColumn": 84,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1857,
+                        "endColumn": 84,
+                        "endOffset": 1937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endColumn": 79,
+                    "endOffset": 1720
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2599,
+                        "endColumn": 79,
+                        "endOffset": 2674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1725,
+                    "endColumn": 77,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2679,
+                        "endColumn": 77,
+                        "endOffset": 2752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 103,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2098,
+                        "endColumn": 103,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endColumn": 100,
+                    "endOffset": 2003
+                },
+                "from": {
+                    "file": "C:\\Android\\ASProjects\\demo1\\demo1\\src\\main\\res\\values-et-rEE\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 100,
+                        "endOffset": 1291
+                    }
+                }
+            }
+        ]
+    }
+]

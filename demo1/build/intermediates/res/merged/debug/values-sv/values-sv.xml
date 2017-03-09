@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1583185545938805861" name="alphabet">"Bokstäver"</string>
+    <string msgid="8396461461738434341" name="app_name">"SIM-verktyg"</string>
+    <string msgid="1997847915560800261" name="button_cancel">"Avbryt"</string>
+    <string msgid="1824959157582605627" name="button_no">"Nej"</string>
+    <string msgid="5760722312558549555" name="button_ok">"OK"</string>
+    <string msgid="624420260648337203" name="button_yes">"Ja"</string>
+    <string msgid="7960194995759849940" name="default_call_setup_msg">"Samtal pågår..."</string>
+    <string msgid="765364262263839824" name="default_close_channel_msg">"Stängd kanal"</string>
+    <string msgid="2216070254100295924" name="default_open_channel_msg">"Öppen kanal?"</string>
+    <string msgid="618096941772010682" name="default_receive_data_msg">"Ta emot data"</string>
+    <string msgid="6011219698689931272" name="default_send_data_msg">"Skicka data"</string>
+    <string msgid="1746796679021682388" name="digits">"Siffror (0-9, *, #, +)"</string>
+    <string msgid="6725081975611415214" name="disable_app">"Har inaktiverats"</string>
+    <string msgid="3701224550936728203" name="enable_app">"Har aktiverats"</string>
+    <string msgid="9209980881219397319" name="help">"Hjälp"</string>
+    <string msgid="301227740977453364" name="menu_back">"Tillbaka"</string>
+    <string msgid="7368541737750982217" name="menu_end_session">"Avsluta besök"</string>
+    <string msgid="6860303747999592491" name="service_name">"Tjänstenamn"</string>
+    <string msgid="18582277302584082" name="stk_app_state">"Programstatus"</string>
+    <string msgid="8498901537508923727" name="stk_dialog_accept">"JA"</string>
+    <string msgid="921848059485746796" name="stk_dialog_reject">"NEJ"</string>
+    <string msgid="6954825385456886726" name="stk_dialog_title">"SIM-verktyg"</string>
+    <string msgid="5427773116839809131" name="stk_no_service">"Ingen tjänst är tillgänglig"</string>
+</resources>
